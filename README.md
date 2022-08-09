@@ -12,3 +12,5 @@ https://nguyenmichaelm.github.io/run-buddy/
 
 ## Contribution
 Made with &#10084;&#65039; by Michael Nguyen
+
+# Run Buddy Inc.
