@@ -8,7 +8,7 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-https://nguyenmichaelm.github.io/run-buddy/
+https://nguyenmichaelm.github.io/run_buddy/
 
 ## Contribution
 Made with &#10084;&#65039; by Michael Nguyen
